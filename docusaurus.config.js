@@ -30,8 +30,6 @@ const config = {
   organizationName: "bluee-05", // Usually your GitHub org/user name.
   projectName: "docusaurus-test", // Usually your repo name.
 
-  GIT_USER=bluee-05; npm run deploy,
-
   onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
@@ -57,7 +55,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/bluee-05/docusaurus-test/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -88,7 +86,7 @@ const config = {
             label: "Tutorial",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/bluee-05/docusaurus-test",
             label: "GitHub",
             position: "right",
           },
@@ -128,7 +126,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/bluee-05/docusaurus-test",
               },
             ],
           },
