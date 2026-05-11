@@ -30,6 +30,8 @@ const config = {
   organizationName: "bluee-05", // Usually your GitHub org/user name.
   projectName: "docusaurus-test", // Usually your repo name.
 
+  GIT_USER=bluee-05; npm run deploy,
+
   onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
